@@ -1,0 +1,8 @@
+= pdfmerge-web
+:pdfmerge-repository: https://github.com/ancho/pdfmerge
+
+A simple grails application to upload PDF files and merge them.
+
+= About
+
+This is a Proof of Concept grails application using a {pdfmerge-repository}[previously developed library] to merge multiple PDF files.
